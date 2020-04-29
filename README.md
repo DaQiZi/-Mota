@@ -11,6 +11,11 @@
 1. 游戏内容基于配置文件，可以灵活配置
 2. 可以使用Tile map为游戏编辑地图
 
+
+安装包（Github上传就报错，没有办法）：
+链接：https://pan.baidu.com/s/16ET4povk3Zec7EHrsA-d6g 
+提取码：3dlt
+
 其他游戏的Demo在最下方有链接
 
 演示图（需要翻墙才可以看到）
