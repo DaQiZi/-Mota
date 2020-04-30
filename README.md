@@ -2,6 +2,12 @@
 
 ## 魔塔
 
+实现引擎：Cocos2d-x 3.15
+实现语言：C++
+辅助工具：Cocos Studio、TiledMap
+
+平台：Win、安卓
+
 核心功能点：
 1. 存读档
 2. 地图模块的设计
@@ -16,7 +22,7 @@
 链接：https://pan.baidu.com/s/16ET4povk3Zec7EHrsA-d6g 
 提取码：3dlt
 
-其他游戏的Demo在最下方有链接
+#### 其他游戏的Demo在最下方有链接
 
 演示图（需要翻墙才可以看到）
 
